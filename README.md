@@ -8,6 +8,7 @@ Nekogram is an UNOFFICIAL app that uses Telegram's API.
 - APKs: https://github.com/Nekogram/Nekogram/releases
 - Feedback: https://t.me/nekosupportbot
 - Feedback: https://github.com/Nekogram/Nekogram/issues
+- [Wall of Shame](https://github.com/Nekogram/Nekogram/wiki/Wall-of-Shame)
 
 ## API, Protocol documentation
 
